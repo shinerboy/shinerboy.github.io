@@ -11,3 +11,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Publications"
+    url: /publications/
