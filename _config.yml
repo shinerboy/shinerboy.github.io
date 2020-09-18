@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Ernesto A. Hernandez-Hinojosa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yosemite.jpg"
   bio              : "I am an Mechanical Engineering Ph.D. student at the University of Illinois at Chicago"
   location         : "Chicago, Illinois"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:eherna@uic.edu"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
