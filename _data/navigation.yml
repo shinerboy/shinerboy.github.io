@@ -12,7 +12,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About"
-    url: https://shinerboy.github.io/about/
+    url: /about/
   - title: "YouTube"
     url: https://www.youtube.com/channel/UCbq-pia9px1kFsMFI1v29eg/
   - title: "Publications"
