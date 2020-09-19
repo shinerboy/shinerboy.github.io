@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: https://shinerboy.github.io/about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
