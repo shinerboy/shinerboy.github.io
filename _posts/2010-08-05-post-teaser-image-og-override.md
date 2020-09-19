@@ -1,7 +1,7 @@
 ---
-title: "Post: Teaser Image with OpenGraph Override"
+title: "Project: Variable Stiffness Treadmill"
 header:
-  teaser: /test/assets/images/page-header-teaser.png
+  teaser: /assets/images/yosemite.jpg
   og_image: /test/assets/images/page-header-og-image.png
 categories:
   - Layout
