@@ -23,7 +23,7 @@ Standard image with no width modifier classes applied.
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/yosemite.jpg){% endraw %}
 ```
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/yosemite.jpgg)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/yosemite.jpg)
 
 Image that fills page content container by adding the `.full` class with:
 
