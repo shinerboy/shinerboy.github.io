@@ -1,4 +1,7 @@
 ---
+layout: archive
+permalink: /posts/
+
 title: "Post: Image (Standard)"
 categories:
   - Post Formats
