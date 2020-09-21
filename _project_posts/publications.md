@@ -2,6 +2,7 @@
 
 title: "My Publications"
 author_profile: true
+classes: wide
 header:
     image: "/assets/images/chicago02.jpg"
 ---
@@ -12,5 +13,3 @@ E. Hernandez et al., "A Novel Treadmill That Can Bilaterally Adjust the Vertical
 
 Guevara, Juan; Romo, Jamie; Hernandez, Ernesto ; Guevara, Natalia Valentinova “Identification of Receptor Ligands in Apo B100 Reveals Potential Functional Domains.” The Protein Journal, vol. 37, no. 6, 2018, pp. 548–571., doi:10.1007/s10930-018-9792-8. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487889/)
 
-layout: archive
-permalink: /project_posts/
