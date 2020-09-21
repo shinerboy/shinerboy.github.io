@@ -1,7 +1,4 @@
 ---
-layout: archive
-permalink: /posts/
-
 title: "Project: Variable Stiffness Treadmill"
 header:
   teaser: /assets/images/yosemite.jpg
