@@ -5,6 +5,7 @@ permalink: /posts/
 title: "Post: Image (Standard)"
 categories:
   - Post Formats
+  - projects
 tags:
   - image
   - Post Formats
