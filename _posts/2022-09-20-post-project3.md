@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Project 3"
 header:
   teaser: /assets/images/yosemite.jpg
