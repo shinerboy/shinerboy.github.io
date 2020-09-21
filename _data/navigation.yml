@@ -1,7 +1,6 @@
 # main links
 main:
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/ernesto-hernandez-hinojosa-547925a4/
+  
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -13,10 +12,14 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
-  - title: "YouTube"
-    url: https://www.youtube.com/channel/UCbq-pia9px1kFsMFI1v29eg/
-  - title: "Publications"
-    url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/ernesto-hernandez-hinojosa-547925a4/
+  - title: "YouTube"
+    url: https://www.youtube.com/channel/UCbq-pia9px1kFsMFI1v29eg/
+  
+  
 
