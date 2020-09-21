@@ -2,6 +2,7 @@
 layout: archive
 permalink: /publications/
 title: "My Publications"
+classes: wide
 author_profile: true
 header:
     image: "/assets/images/chicago03.jpg"
