@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Project 3"
+classes: wide
 header:
   teaser: /assets/images/yosemite.jpg
   og_image: /test/assets/images/page-header-og-image.png
