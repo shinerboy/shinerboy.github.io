@@ -286,3 +286,14 @@ defaults:
     values:
         layout: single
         author_pofile: true
+  # _project_posts
+  - scope:
+      path: ""
+      type: project_posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

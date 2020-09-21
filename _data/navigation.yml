@@ -19,4 +19,6 @@ main:
     url: /publications/
   - title: "Posts"
     url: /posts/
+  - title: "Project Posts"
+    url: /project_posts/
 
