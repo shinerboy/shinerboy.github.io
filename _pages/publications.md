@@ -4,7 +4,7 @@ permalink: /publications/
 title: "My Publications"
 author_profile: true
 header:
-    image: "/assets/images/chicago01.jpg"
+    image: "/assets/images/chicago02.jpg"
 ---
 
 E. Hernandez-Hinojosa et al., "Bioinspired robotic exoskeleton for endotracheal intubation", Journal of Materials Research and Technology, Volume 9, Issue 6, 2020, Pages 12167-12176, ISSN 2238-7854. [link](http://www.sciencedirect.com/science/article/pii/S2238785420316781)
