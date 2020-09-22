@@ -8,11 +8,9 @@ classes: wide
 ## Education
 
   * Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)
-  {: .medium}
       * GPA 4.0 
-      {: .small}
+      {: .medium}
   * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016
-  {: .medium} 
       * GPA 3.52 (Cum Laude) 
       {: .small}
 
@@ -36,11 +34,11 @@ classes: wide
 
   * NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018
       * Seven week I-COPRS curriculum 	
-      * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
-  * The University of Texas at San Antonio, 2017-2020
-      * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
-      * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
-      * Scalable Soft Actuator based on Electromagnetic Induction; Design Specifications and Preliminary Experiments
+      * The National Science Foundation (NSF) I-Corps program prepares scientists and engineers to extend their focus beyond the university laboratory, and accelerates the economic and societal benefits of NSF-funded, basic-research projects that are ready to move toward commercialization.
+  * San Antonio VIA Codeathon, 2018
+      * Bus Bike Rack Availability Utility	
+      * Built a software application system that allows bus riders to check the bike rack availability on any VIA bus
+
   * The University of Texas at Brownsville/Rio Grande Valley, 2014-2016   
       *  Undergraduate Research Assistant; Advisor: Juan Guevara, Ph.D.	
       * Identification of LDL receptor ligand in Apo B100 revealed potential functional domains.
