@@ -13,7 +13,6 @@ classes: wide
   * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
       * GPA 3.52 (Cum Laude) 
  {: .small}
-
 ## Research Experience
 
   * **The University of Illinois at Chicago, 2020-present**
@@ -33,7 +32,6 @@ classes: wide
       *  Undergraduate Research Assistant; Advisor: Nazmul Islam, Ph.D.	
       * Designed and developed a method to quantify biological particles in a sample using electrical impedance spectroscopy techniques as well as using AC electro-osmosis (ACEO) to deposit particles on stagnation points on electrode surfaces that can increase accuracy of biosensor. 
  {: .small}
-
 ## Projects
 
   * **NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018**
@@ -51,7 +49,11 @@ classes: wide
         * MATLAB and SolidWorks to test and design
         * Arduino programming
         * EMG signal proecssing and analysis
-      
+  * **Maze-solver Robot Design**
+      * IEEE Region 5 Conference Robotic Competition
+  * **Low Force Orbital Replacement Unit Cold Plate Design**
+      * Worked on a project given by NASA to develop an efficient and replaceable cold plate design for use inside the ISS.
+      * •	AutoCad design and Finite Element Analysis using Autodesk Mechanical
  {: .small}
 
 
