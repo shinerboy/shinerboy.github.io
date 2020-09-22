@@ -60,6 +60,14 @@ classes: wide
       * AutoCad design and Finite Element Analysis using Autodesk Mechanical
  {: .small}
 
+## Research/Conference Papers
+
+  * **"Bioinspired robotic exoskeleton for endotracheal intubation"**, Journal of Materials Research and Technology, Volume 9, Issue 6, 2020, Pages 12167-12176, ISSN 2238-7854.
+  * **“A Novel Treadmill that can Bilaterally Adjust the Vertical Surface Stiffness”** IEEE Transaction on Mechatronics September 2018
+  * **“A Novel Treadmill with Adjustable Bilateral Surface Stiffness”** Dynamic Walking Conference 2018
+  * **“Scalable Soft Actuator based on Electromagnetic Induction; Design Specifications and Preliminary Experiments”** ICRA Conference 2018 
+  * **“Identification of LDL Receptor Ligands in Apo B100 Reveals Potential Functional Domains"** The Protein Journal, October 2017
+ {: .small}
 
           * List item one
           * List item two
