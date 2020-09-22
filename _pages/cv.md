@@ -12,7 +12,7 @@ classes: wide
       * GPA 4.0 
       {: .small}
   * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016
-  {: .small}
+  
       * GPA 3.52 (Cum Laude) 
       {: .small}
 
