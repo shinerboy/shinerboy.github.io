@@ -7,52 +7,51 @@ classes: wide
 
 ## Education
 
-  * Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected) **bold text**
+  * **Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)** 
       * GPA 4.0 
-  {: .small}
     
-  * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 **bold text**
+  * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
       * GPA 3.52 (Cum Laude) 
-  {: .small}
+ {: .small}
 
 ## Research Experience
 
-  * The University of Illinois at Chicago, 2020-present **bold text**
+  * **The University of Illinois at Chicago, 2020-present**
       * Graduate Research Assistant; Advisor: Pranav Bhounsule, Ph.D.	
       * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
-  {: .small}
 
-  * The University of Texas at San Antonio, 2017-2020 **bold text**
+  * **The University of Texas at San Antonio, 2017-2020**
       * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
       * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
       * Scalable Soft Actuator based on Electromagnetic Induction; Design Specifications and Preliminary Experiments
-  {: .small}
 
-  * The University of Texas at Brownsville/Rio Grande Valley, 2014-2016    **bold text**
+  * **The University of Texas at Brownsville/Rio Grande Valley, 2014-2016** 
       *  Undergraduate Research Assistant; Advisor: Juan Guevara, Ph.D.	
       * Identification of LDL receptor ligand in Apo B100 revealed potential functional domains.
-  {: .small}
-  
-  * The University of Texas at Brownsville/Rio Grande Valley, 2012-2013   **bold text** 
+
+  * **The University of Texas at Brownsville/Rio Grande Valley, 2012-2013**
       *  Undergraduate Research Assistant; Advisor: Nazmul Islam, Ph.D.	
       * Designed and developed a method to quantify biological particles in a sample using electrical impedance spectroscopy techniques as well as using AC electro-osmosis (ACEO) to deposit particles on stagnation points on electrode surfaces that can increase accuracy of biosensor. 
-  {: .small}
+ {: .small}
 
 ## Projects
 
-  * NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018 **bold text**
+  * **NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018**
       * Seven week I-COPRS curriculum 	
       * The National Science Foundation (NSF) I-Corps program prepares scientists and engineers to extend their focus beyond the university laboratory, and accelerates the economic and societal benefits of NSF-funded, basic-research projects that are ready to move toward commercialization.
-  * San Antonio VIA Codeathon, 2018 **bold text**
+  * **San Antonio VIA Codeathon, 2018**
       * Bus Bike Rack Availability Utility	
       * Built a software application system that allows bus riders to check the bike rack availability on any VIA bus
 
-  * OpenCV Motion Analysis System, 2016-017   **bold text**
+  * **OpenCV Motion Analysis System, 2016-017**
       * Independent Project
       * Developed a C++ based interface system that uses color detection for object tracking
-  * The University of Texas at Brownsville/Rio Grande Valley, 2012-2013   
-      *  Undergraduate Research Assistant; Advisor: Nazmul Islam, Ph.D.	
-      * Designed and developed a method to quantify biological particles in a sample using electrical impedance spectroscopy techniques as well as using AC electro-osmosis (ACEO) to deposit particles on stagnation points on electrode surfaces that can increase accuracy of biosensor. 
+  * **Muscle-activated myoelectric prosthetic hand 2016-2016**   
+      *  Designed and developed a low-cost 3D-printed myo-electric prosthetic hand
+        * MATLAB and SolidWorks to test and design
+        * Arduino programming
+        * EMG signal proecssing and analysis
+      
  {: .small}
 
 
