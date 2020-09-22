@@ -1,12 +1,49 @@
 ---
-title: "Archive Layout with Content"
+title: "Curriculum Vitae"
 layout: archive
 permalink: /cv/
 ---
 
-A variety of common markup showing how the theme styles them.
+## Education
 
-# Header one
+  * Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)
+      * GPA 4.0
+  * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
+      * GPA 3.52 (Cum Laude) 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+
+## Research Expereince
+
+  * The University of Texas at San Antonio, 2017-2020
+      * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
+      * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
+      * Scalable Soft Actuator based on Electromagnetic Induction; Design Specifications and Preliminary Experiments
+  * The University of Texas at Brownsville/Rio Grande Valley, 2014-2016   
+      *  Undergraduate Research Assistant; Advisor: Juan Guevara, Ph.D.	
+      * Identification of LDL receptor ligand in Apo B100 revealed potential functional domains.
+  * The University of Texas at Brownsville/Rio Grande Valley, 2012-2013   
+      *  Undergraduate Research Assistant; Advisor: Nazmul Islam, Ph.D.	
+      * Designed and developed a method to quantify biological particles in a sample using electrical impedance spectroscopy techniques as well as using AC electro-osmosis (ACEO) to deposit particles on stagnation points on electrode surfaces that can increase accuracy of biosensor. 
+
+
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
+
+# Education
 
 ## Header two
 
