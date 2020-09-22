@@ -8,9 +8,11 @@ classes: wide
 ## Education
 
   * Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)
+  {: .medium}
       * GPA 4.0 
       {: .small}
-  * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
+  * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016
+  {: .medium} 
       * GPA 3.52 (Cum Laude) 
       {: .small}
 
@@ -18,6 +20,22 @@ classes: wide
 
   * The University of Illinois at Chicago, 2020-present
       * Graduate Research Assistant; Advisor: Pranav Bhounsule, Ph.D.	
+      * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
+  * The University of Texas at San Antonio, 2017-2020
+      * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
+      * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
+      * Scalable Soft Actuator based on Electromagnetic Induction; Design Specifications and Preliminary Experiments
+  * The University of Texas at Brownsville/Rio Grande Valley, 2014-2016   
+      *  Undergraduate Research Assistant; Advisor: Juan Guevara, Ph.D.	
+      * Identification of LDL receptor ligand in Apo B100 revealed potential functional domains.
+  * The University of Texas at Brownsville/Rio Grande Valley, 2012-2013   
+      *  Undergraduate Research Assistant; Advisor: Nazmul Islam, Ph.D.	
+      * Designed and developed a method to quantify biological particles in a sample using electrical impedance spectroscopy techniques as well as using AC electro-osmosis (ACEO) to deposit particles on stagnation points on electrode surfaces that can increase accuracy of biosensor. 
+
+## Projects
+
+  * NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018
+      * Seven week I-COPRS curriculum 	
       * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
   * The University of Texas at San Antonio, 2017-2020
       * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
