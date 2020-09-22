@@ -92,7 +92,7 @@ classes: wide
 | Mechanical | Software | Other |
 |:--------|:-------:|--------:|
 | SolidWorks   | Python   | MATLAB   |
-| AutoCAD   | c++   |    |  Circuit Design
+| AutoCAD   | c++   |    | Circuit Design   |   
 |-----------------------------|
 | ANSYS   | ROS (Robotic Operating System)  | Motion Capture (Nexus)   |
 | Auto Desk Mechanical Simulations   | Arduino Programming  |   |
