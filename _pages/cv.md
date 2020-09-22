@@ -69,6 +69,35 @@ classes: wide
   * **“Identification of LDL Receptor Ligands in Apo B100 Reveals Potential Functional Domains"** The Protein Journal, October 2017
  {: .small}
 
+## Presentations
+
+  * **BMES Conference, 2019**
+      * “Muscle Strength and Endurance Enhancement Using a 1-DOF Assistive Exoskeleton”   	
+  * **SURF Conference, 2019**
+      * “Endotracheal Intubation Performance Comparison of a Novel Digital Extenders Technique Versus Direct Laryngoscopy and Tactile Intubation”
+  * **SURF Conference, 2018**
+      * "A Novel Treadmill with Adjustable Surface Stiffness”
+  * **Dynamic Walking Conference, 2018**   
+      *  A Novel Treadmill with Adjustable l Surface Stiffness”
+  * **Engaged Scholar Symposium, 2015**
+      * “Low-Cost 3-D printed Myoelectric Prosthetic Hand”
+  * **Texas Space Grant Consortium Design Challenge Fall Showcase**
+      * “Low Force Orbital Replacement Unit Cold Plate Design”
+  * **15th Annual Research Symposium The University of Texas at Brownsville, 2013**
+      * “Electrical Impedance Spectroscopy (EIS) for bio-sensor Applications”
+ {: .small}
+
+## Skills and Techniques
+
+|:--------|:-------:|--------:|
+| SlidWorks   | AutoCAD   | MATLAB   |
+| Python   | c++   | Auto Desk MEchanical Simulations   |
+|-----------------------------|
+| ANSYS   | Arduino Programming   | ROS (Robotic Operating System)   |
+| Circuit Design   | LabVIEW   | Motion Capture (Nexus())   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
           * List item one
           * List item two
           * List item three
