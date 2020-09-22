@@ -81,7 +81,7 @@ classes: wide
       *  A Novel Treadmill with Adjustable l Surface Stiffness”
   * **Engaged Scholar Symposium, 2015**
       * “Low-Cost 3-D printed Myoelectric Prosthetic Hand”
-  * **Texas Space Grant Consortium Design Challenge Fall Showcase**
+  * **Texas Space Grant Consortium Design Challenge Fall Showcase, 2014**
       * “Low Force Orbital Replacement Unit Cold Plate Design”
   * **15th Annual Research Symposium The University of Texas at Brownsville, 2013**
       * “Electrical Impedance Spectroscopy (EIS) for bio-sensor Applications”
