@@ -1,5 +1,5 @@
 ---
-title: "Project 2"
+title: "Project: Variable Stiffness Treadmill"
 header:
   teaser: /assets/images/yosemite.jpg
   og_image: /test/assets/images/page-header-og-image.png
@@ -12,5 +12,6 @@ tags:
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 
-This post is about project 2
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nOWBYR_TzeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
