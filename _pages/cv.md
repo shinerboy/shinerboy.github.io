@@ -89,14 +89,15 @@ classes: wide
 
 ## Skills and Techniques
 
+| Mechanical | Software | Other |
 |:--------|:-------:|--------:|
-| SlidWorks   | AutoCAD   | MATLAB   |
-| Python   | c++   | Auto Desk MEchanical Simulations   |
+| SolidWorks   | Python   | MATLAB   |
+| AutoCAD   | c++   |    |  Circuit Design
 |-----------------------------|
-| ANSYS   | Arduino Programming   | ROS (Robotic Operating System)   |
-| Circuit Design   | LabVIEW   | Motion Capture (Nexus())   |
+| ANSYS   | ROS (Robotic Operating System)  | Motion Capture (Nexus)   |
+| Auto Desk Mechanical Simulations   | Arduino Programming  |   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
+
 
           * List item one
           * List item two
