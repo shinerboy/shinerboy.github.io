@@ -1,8 +1,8 @@
 ---
 title: "Project: Variable Stiffness Treadmill"
 header:
-  teaser: /assets/images/yosemite.jpg
-  og_image: /test/assets/images/page-header-og-image.png
+  teaser: /assets/images/VSS_Image01.JPG
+  og_image: /assets/images/VSS_Image01.JPG
 categories:
   - projects
 tags:

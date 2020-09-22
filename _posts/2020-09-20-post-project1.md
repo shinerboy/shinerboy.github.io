@@ -1,8 +1,8 @@
 ---
 title: "Project: Myoelectric Prosthetic Hand"
 header:
-  teaser: /assets/images/yosemite.jpg
-  og_image: /test/assets/images/page-header-og-image.png
+  teaser: /assets/images/Senior_design_image01.JPG
+  og_image: /assets/images/Senior_design_image01.JPG
 categories:
   - projects
 tags:
