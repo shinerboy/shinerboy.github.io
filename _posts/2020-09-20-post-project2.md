@@ -2,6 +2,7 @@
 title: "Project: Variable Stiffness Treadmill"
 header:
   teaser: /assets/images/VSS_Image01.JPG
+  image: /assets/images/VSS_Image01.JPG
   og_image: /assets/images/VSS_Image01.JPG
 categories:
   - projects
