@@ -19,6 +19,10 @@ classes: wide
       * Graduate Research Assistant; Advisor: Pranav Bhounsule, Ph.D.	
       * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
 
+  * **NASA Johnson Space Center, 2020**
+      * Robotics Researcher USRA Intern	
+      * Developed ROS-based software to command UR5 robots to complete different affordances in simulation (using Gazebo) and in hardware. These affordances included tasks such as graspoing objects, turning valves, and flipping switched.
+
   * **The University of Texas at San Antonio, 2017-2020**
       * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
       * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
@@ -53,7 +57,7 @@ classes: wide
       * IEEE Region 5 Conference Robotic Competition
   * **Low Force Orbital Replacement Unit Cold Plate Design**
       * Worked on a project given by NASA to develop an efficient and replaceable cold plate design for use inside the ISS.
-      * •	AutoCad design and Finite Element Analysis using Autodesk Mechanical
+      * AutoCad design and Finite Element Analysis using Autodesk Mechanical
  {: .small}
 
 
