@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 layout: archive
 permalink: /cv/
+classes: wide
 ---
 
 ## Education
@@ -20,6 +21,9 @@ permalink: /cv/
 
 ## Research Expereince
 
+  * The University of Illinois at Chicago, 2020-present
+      * Graduate Research Assistant; Advisor: Pranav Bhounsule, Ph.D.	
+      * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
   * The University of Texas at San Antonio, 2017-2020
       * Graduate Research Assistant; Advisor: Amir Jafari, Ph.D.	
       * A Novel Treadmill with Adjustable Surface Stiffness with the Ability to Bilaterally Regulate the Vertical Stiffness
