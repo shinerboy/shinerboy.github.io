@@ -48,14 +48,14 @@ classes: wide
   * **OpenCV Motion Analysis System, 2016-017**
       * Independent Project
       * Developed a C++ based interface system that uses color detection for object tracking
-  * **Muscle-activated myoelectric prosthetic hand 2016-2016**   
+  * **Muscle-activated myoelectric prosthetic hand, 2016-2016**   
       *  Designed and developed a low-cost 3D-printed myo-electric prosthetic hand
         * MATLAB and SolidWorks to test and design
         * Arduino programming
         * EMG signal proecssing and analysis
-  * **Maze-solver Robot Design**
+  * **Maze-solver Robot Design, 2015-2016**
       * IEEE Region 5 Conference Robotic Competition
-  * **Low Force Orbital Replacement Unit Cold Plate Design**
+  * **Low Force Orbital Replacement Unit Cold Plate Design, 2014**
       * Worked on a project given by NASA to develop an efficient and replaceable cold plate design for use inside the ISS.
       * AutoCad design and Finite Element Analysis using Autodesk Mechanical
  {: .small}
