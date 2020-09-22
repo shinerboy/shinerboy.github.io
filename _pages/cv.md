@@ -115,7 +115,7 @@ classes: wide
   * **Anatomy and physiology / Pre-Calculus Tutor, The university of Texas Rio Grande Valley, January 2017-May 2017**
  {: .small}
 
- ## STEM Outreach
+## STEM Outreach
 
   * **Coding Coach, Brownsville TX**
       * Conducted a summer coding camp for students of all ages	
