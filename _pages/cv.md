@@ -11,14 +11,7 @@ classes: wide
       * GPA 4.0
   * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
       * GPA 3.52 (Cum Laude) 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-
+      
 ## Research Expereince
 
   * The University of Illinois at Chicago, 2020-present
