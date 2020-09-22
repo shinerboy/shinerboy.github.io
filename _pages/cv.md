@@ -8,9 +8,11 @@ classes: wide
 ## Education
 
   * Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)
-      * GPA 4.0 {: .small}
+      * GPA 4.0 
+      {: .small}
   * B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016 
-      * GPA 3.52 (Cum Laude) {: .small}
+      * GPA 3.52 (Cum Laude) 
+      {: .small}
 
 ## Research Experience
 
