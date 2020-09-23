@@ -3,8 +3,8 @@ layout: single
 title: "Project: Surface EMG Pattern Recognition for Hand Gestures Based on Hierarchical Clustering"
 classes: wide
 header:
-  teaser: /assets/images/yosemite.jpg
-  og_image: /test/assets/images/page-header-og-image.png
+  teaser: /assets/images/EMG_pattern_recognition/Results.JPG
+  og_image: /assets/images/EMG_pattern_recognition/Results.JPG
 categories:
   - projects
 tags:
