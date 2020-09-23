@@ -12,41 +12,11 @@ tags:
   - EMG recognition
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Abstract.JPG)
+This project was presented at the Artificial Inteligence symposium as part of my Machine Learning course final project.
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
+Myoelectric arm prosthetics offer more diverse functionalities than other prosthetic types. However, most myoelectric prosthetics have limitations to their functionality due to difficulty in classifying muscle data defining the intent of the user’s actions. This project demonstrates an application of Machine Learning to classify and predict hand gesture patterns using Electromyography (EMG) muscle activity data samples. Data preprocessing was done to denoise frequency signals for a smooth feature extraction. Three classification models were tested based on kNN: a) A conditional probability prediction of new sample sets based on the similarities to the training set, b) A k-means categorical cluster with a fixed k cluster grouping data points(gestures and features) based on their similarities, c) A hybrid hierarchical cluster, modified to address variations in signal activity from different subjects. Overall, the subject k-means model yielded an 84% prediction accuracy and 22.01 response time, which was an optimal metric in comparison to the other proposed models.
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
-**HTML:**
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG" alt="">{% endraw %}
-```
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Introduction.JPG" alt="">{% endraw %}
-```
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Methods.JPG" alt="">{% endraw %}
-```
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Results.JPG" alt="">{% endraw %}
-```
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Discussion.JPG" alt="">{% endraw %}
-```
-
-```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Conclusion.JPG" alt="">{% endraw %}
-```
 
 
