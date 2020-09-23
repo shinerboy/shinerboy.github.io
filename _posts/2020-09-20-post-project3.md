@@ -12,10 +12,31 @@ tags:
   - EMG recognition
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
-
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
 **HTML:**
 
 ```html
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG" alt="">{% endraw %}
 ```
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Introduction.JPG" alt="">{% endraw %}
+```
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Methods.JPG" alt="">{% endraw %}
+```
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Results.JPG" alt="">{% endraw %}
+```
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Discussion.JPG" alt="">{% endraw %}
+```
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Conclusion.JPG" alt="">{% endraw %}
+```
+
 
