@@ -22,13 +22,11 @@ Myoelectric arm prosthetics offer more diverse functionalities than other prosth
     <figcaption></figcaption>
 </figure>
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Abstract.JPG) ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Introduction.JPG)
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Methods.JPG)
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Results.JPG)
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Discussion.JPG)
+<figure class="half">
+    <a href="/assets/images/EMG_pattern_recognition/Results.JPG"><img src="/assets/images/EMG_pattern_recognition/Results.JPG"></a>
+    <a href="/assets/images/EMG_pattern_recognition/Discussion.JPG"><img src="/assets/images/EMG_pattern_recognition/Discussion.JPG"></a>
+    <figcaption></figcaption>
+</figure>
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Conclusion.JPG)
 
