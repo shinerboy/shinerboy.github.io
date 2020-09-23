@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project 3"
+title: "Project: Surface EMG Pattern Recognition for Hand Gestures Based on Hierarchical Clustering"
 classes: wide
 header:
   teaser: /assets/images/yosemite.jpg
@@ -8,11 +8,14 @@ header:
 categories:
   - projects
 tags:
-  - edge case
-  - image
-  - layout
+  - machine learning
+  - EMG recognition
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
 
-This post is about project 333333 3333333333 333 33333333 333333 333333 333333 333333 3333 33333333 33333333333 33333 3 3 
+**HTML:**
+
+```html
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG" alt="">{% endraw %}
+```
 

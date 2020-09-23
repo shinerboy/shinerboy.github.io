@@ -1,6 +1,5 @@
 ---
 title: "Project: Myoelectric Prosthetic Hand"
-featured-image: /assets/images/Senior_design_image01.JPG
 header:
   teaser: /assets/images/Senior_design_image01.JPG
   
