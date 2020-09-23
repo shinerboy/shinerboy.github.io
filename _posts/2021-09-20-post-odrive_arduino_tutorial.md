@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ODrive Arduino Tutorial"
+title: "ODrive Arduino Instructions"
 classes: wide
 header:
   
@@ -14,7 +14,7 @@ last_modified_at: 2020-09-22T15:12:19-04:00
 
 ### Download Arduino script and run serial monitor commands
 
-1. DownloadArduino ODrive header file and script from [Here] (https://github.com/shinerboy/ODrive-Arduino/tree/master/ODriveArduinoTest02)
+1. DownloadArduino ODrive header file and script from [link] (https://github.com/shinerboy/ODrive-Arduino/tree/master/ODriveArduinoTest02)
 2. Connect Arduino to computer and upload script.
 3. Connect ODrive to Arduino via RX TX pins and ground.
 4. Power ODrive
