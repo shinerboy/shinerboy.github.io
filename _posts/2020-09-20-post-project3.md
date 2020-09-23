@@ -12,6 +12,16 @@ tags:
   - EMG recognition
 last_modified_at: 2017-10-26T15:12:19-04:00
 ---
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Abstract.JPG)
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
+
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Abstract.JPG)
 **HTML:**
 
