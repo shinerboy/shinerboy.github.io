@@ -10,7 +10,7 @@ categories:
 tags:
   - machine learning
   - EMG recognition
-last_modified_at: 2017-10-26T15:12:19-04:00
+last_modified_at: 2020-09-22T15:12:19-04:00
 ---
 This project was presented at the Artificial Inteligence symposium as part of my Machine Learning course final project.
 
@@ -28,7 +28,11 @@ Myoelectric arm prosthetics offer more diverse functionalities than other prosth
     <figcaption></figcaption>
 </figure>
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/EMG_pattern_recognition/Conclusion.JPG)
+<figure class="half">
+    <a href="/assets/images/EMG_pattern_recognition/Conclusion.JPG"><img src="/assets/images/EMG_pattern_recognition/Conclusion.JPG"></a>
+    <figcaption></figcaption>
+</figure>
+
 
 
 
