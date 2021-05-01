@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Project: Surface EMG Pattern Recognition for Hand Gestures Based on Hierarchical Clustering"
+permalink: /2020-09-20-post-project3/
 classes: wide
 header:
   teaser: /assets/images/EMG_pattern_recognition/Results.JPG

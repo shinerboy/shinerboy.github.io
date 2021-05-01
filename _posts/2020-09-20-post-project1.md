@@ -1,5 +1,6 @@
 ---
 title: "Project: Myoelectric Prosthetic Hand"
+permalink: /2020-09-20-post-project1/
 header:
   teaser: /assets/images/Senior_design_image01.JPG
   
