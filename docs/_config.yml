@@ -200,7 +200,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: meta info
+      layout: single
       author_profile: true
       read_time: true
       comments: true

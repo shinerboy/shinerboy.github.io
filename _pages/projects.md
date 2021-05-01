@@ -1,5 +1,5 @@
 ---
-layout: projects_home
+layout: splash
 permalink: /projects/
 title: "My Projects"
 classes: wide

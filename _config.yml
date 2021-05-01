@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Ernesto A. Hernandez-Hinojosa"
-  avatar           : "/assets/images/digit_sitting.jpg"
+  avatar           : "/assets/images/digit_and_me_closeup.jpg"
   bio              : "Mechanical Engineering Ph.D. student at the University of Illinois at Chicago"
   location         : "Chicago, Illinois"
   email            :
@@ -273,7 +273,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: meta info
+      layout: single
       author_profile: false
       read_time: true
       comments: # true
