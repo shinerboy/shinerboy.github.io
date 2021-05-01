@@ -1,5 +1,6 @@
 ---
 title: "Project: Variable Stiffness Treadmill"
+permalink: /2020-09-20-post-project2/
 image: /assets/images/VSS_Image01.JPG
 header:
   teaser: /assets/images/VSS_Image01.JPG
