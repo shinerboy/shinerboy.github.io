@@ -22,8 +22,10 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
     <figcaption>(a) Partial feedback linearization reduces the stance phase dynamics from Θ = [Θu,Θc] (10 dimensions) to Θ = Θu (2 dimensions). (b) A Poincare section is chosen at mid-stance. I generate random input state at the Poincar´e section and controls at the step and simulate till the next Poincare section to generate data for the Poincar´e map given by F, Θi+1 u = F(Θi u ,U i). (c) The Poincare map is curve fitted Θi+1u = F(Θiu,Ui) where F is a quadratic polynomial model and support vector machine is used to identify the boundary of the model. (d) Nonlinear programming is used to solve a suitably formulated quadratically constrained quadratic program</figcaption>
 </figure>
 
+Used a 2D, 5-link biped model with physics parameter such as link mass and inertia approximated to those of the average adult male. 
+
 <figure>
-    <a href="/assets/images/IDETC_2021/humanoid_2D.JPG"><img src="/assets/images/IDETC_2021/humanoid_2D.JPG"></a>
+    <a href="/assets/images/IDETC_2021/humanoid_2D.JPG"><img src="/assets/images/IDETC_2021/humanoid_2D.JPG" width="136"></a>
     <figcaption>Humanoid Model: (a) configuration variables describing the degrees of freedom, (b) mass, center of mass, inertia about center of mass, and length parameters</figcaption>
 </figure>
 
