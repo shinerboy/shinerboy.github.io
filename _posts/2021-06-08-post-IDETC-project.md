@@ -19,7 +19,7 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
 
 <figure>
     <a href="/assets/images/IDETC_2021/overview.JPG"><img src="/assets/images/IDETC_2021/overview.JPG"></a>
-    <figcaption></figcaption>
+    <figcaption>"(a) Partial feedback linearization reduces the stance phase dynamics from Θ = [Θu,Θc] (10 dimensions) to Θ = Θu (2 dimensions). (b) A Poincare section is chosen at mid-stance. We generate random input state at the Poincar´e section and controls at the step and simulate till the next Poincare section to generate data for the Poincar´e map given by ´ F, Θi+1 u = F(Θi u ,U i). (c) The Poincare map is curve fitted Θi+1u = F(Θiu,Ui) where F is a quadratic polynomial model and support vector machine is used to identify the boundary of the model. (d) Nonlinear programming is used to solve a suitably formulated quadratically constrained quadratic program"</figcaption>
 </figure>
 
 <figure class="half">
