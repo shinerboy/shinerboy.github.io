@@ -26,7 +26,7 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
 
 
 <figure style="width:300px;">
-    <a href="/assets/images/IDETC_2021/humanoid_2D.JPG"><img src="/assets/images/IDETC_2021/humanoid_2D.JPG" style="width:100%"></a>
+    <a href="/assets/images/IDETC_2021/humanoid_2D.JPG"><img src="/assets/images/IDETC_2021/humanoid_2D.JPG"></a>
     <figcaption>Humanoid Model: (a) configuration variables describing the degrees of freedom, (b) mass, center of mass, inertia about center of mass, and length parameters </figcaption>
 </figure>
 
