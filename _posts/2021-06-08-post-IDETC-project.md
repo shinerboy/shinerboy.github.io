@@ -37,6 +37,7 @@ Used a 2D, 5-link biped model with physics parameter such as link mass and inert
 ### Equations
 
 Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4).
+
 The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg. This force would come from the ankle of the robot. Using the assumption that energy and momentum are conserved I dervied the foot strike equations to solve for the states before and after the collision. 
 
 <figure class="half">
