@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""Control of a 5-Link Biped Using Quadratic Polynomial""
+title: "Control of a 5-Link Biped Using Quadratic Polynomial"
 permalink: /2021-06-08-post-IDETC-project/
 classes: wide
 header:
