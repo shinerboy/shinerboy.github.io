@@ -33,12 +33,10 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
 
 Used a 2D, 5-link biped model with physics parameter such as link mass and inertia approximated to those of the average adult male. Used two sets of equations for the simulation model. One equation is for single stance phase where one foot is on the ground and the second if for the foot-strike phase where both legs are on the groud and exchange roles. The swing leg becomes the stance leg and the stance leg becomes the swing leg.
 
+<iframe width="560" height="315" src="https://youtu.be/-UL-wkv4XF8
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<figure class="half">
-    <a href="/assets/images/EMG_pattern_recognition/Conclusion.JPG"><img src="/assets/images/EMG_pattern_recognition/Conclusion.JPG"></a>
-    <figcaption></figcaption>
-</figure>
 
 
 
