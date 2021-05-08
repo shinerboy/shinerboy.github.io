@@ -34,6 +34,16 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
 
 Used a 2D, 5-link biped model with physics parameter such as link mass and inertia approximated to those of the average adult male. Used two sets of equations for the simulation model. One equation is for single stance phase where one foot is on the ground and the second if for the foot-strike phase where both legs are on the groud and exchange roles. The swing leg becomes the stance leg and the stance leg becomes the swing leg.
 
+### Equations
+
+Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4).
+The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg. This force would come from the ankle of the robot. Using the assumption that energy and momentum are conserved I dervied the foot strike equations to solve for the states before and after the collision. 
+
+<figure class="half">
+    <a href="/assets/images/IDETC_2021/Euler-Lagrange.JPG"><img src="/assets/images/IDETC_2021/Euler-Lagrange.JPG"></a>
+    <a href="/assets/images/IDETC_2021/foot-strike-eq.JPG"><img src="/assets/images/IDETC_2021/foot-strike-eq.JPG"></a>
+    <figcaption></figcaption>
+</figure>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UL-wkv4XF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
