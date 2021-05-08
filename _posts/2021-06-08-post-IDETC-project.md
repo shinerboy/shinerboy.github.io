@@ -13,7 +13,7 @@ tags:
   - EMG recognition
 last_modified_at: 2020-09-22T15:12:19-04:00
 ---
-To walk over constrained environments, bipedal robots must meet concise control objectives of speed and foot placement. The decisions made at the current step need to factor in their effects over a time horizon. Such step-to-step control is formulated as a two-point boundary value problem (2-BVP). As the dimensionality of the biped increases, it becomes increasingly
+To walk over constrained environments, bipedal robots must meet concise control objectives of speed and foot placement. The decisions made at the current step need to factor in their effects over a time horizon. Such step-to-step control is formulated as a two-point boundary value problem (2-BVP). As the dimensionality of the biped increases, it becomes increasingly
 difficult to solve this 2-BVP in real-time. The common method to use a simple linearized model for real-time planning followed by mapping on the high dimensional model cannot capture the
 nonlinearities and leads to potentially poor performance for fast walking speeds. I developed a framework for real-time control based on using partial feedback linearization for model reduction, followed by a data-driven approach to find a quadratic polynomial model for the 2-BVP. This simple step-to-step model along with constraints is then used to formulate and solve a quadratically constraint quadratic program to generate real-time control commands. We demonstrate the efficacy of the approach in simulation on a 5-link biped following a reference velocity profile and on a terrain with ditches.
 
