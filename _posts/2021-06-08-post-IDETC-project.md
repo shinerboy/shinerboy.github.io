@@ -33,18 +33,23 @@ nonlinearities and leads to potentially poor performance for fast walking speeds
   </center>
 
 
-Used a 2D, 5-link biped model with four actuators (one in each hip and one in each knee). The model is under-actuated as there are five DOFs (with the addition of torso position) but only four actuated ones. The physics parameter such as link mass and inertia were approximated to those of the average adult male. The simulator was developed in MATLAB where I used two sets of equations for the simulation model. One equation is the equation of motion consisting of 7 states one for each DOF annd the x and y positions of the stance foot. This equation is used during the single stance phase where one foot is on the ground and the model behaves like an inverted pendulum. The second equation is used during the foot-strike phase where the trailing leg applies an impulsive push-off force and it is assumed angular momentum is conserved about the swing foot contact point. When both legs are on the groud they exchange roles. The swing leg becomes the stance leg and the stance leg becomes the swing leg.
+Used a 2D, 5-link biped model with four actuators (one in each hip and one in each knee). The model is under-actuated as there are five DOFs (with the addition of torso position) but only four actuated ones. The physics parameter such as link mass and inertia were approximated to those of the average adult male. The simulator was developed in MATLAB where I used two sets of equations for the simulation model. 
 
 ### Equations
 
-Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4).
+Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4). The first equation used in the simulator is the equation of motion for the 5 DOF states. This equation is used during the single stance phase where one foot is on the ground and the model behaves like an inverted pendulum.
 
-The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg. This force would come from the ankle of the robot. Using the assumption that energy and momentum are conserved I dervied the foot strike equations to solve for the states before and after the collision. 
+The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg assimlating ankle push-off. Using the assumption that energy and momentum are conserved and integrating the EOM for the 7 states and taking he limit as time --> 0 the footstrike equation was derived to solve for the states after collision.
 
+<figure class="half">
+    <a href="/assets/images/IDETC_2021/single_stance.JPG"><img src="/assets/images/IDETC_2021/single_stance.JPG"></a>
+    <a href="/assets/images/IDETC_2021/foot-strike.JPG"><img src="/assets/images/IDETC_2021/foot-strike.JPG"></a>
+    <figcaption></figcaption>
+</figure>
 <figure class="half">
     <a href="/assets/images/IDETC_2021/Euler-Lagrange.JPG"><img src="/assets/images/IDETC_2021/Euler-Lagrange.JPG"></a>
     <a href="/assets/images/IDETC_2021/foot-strike-eq.JPG"><img src="/assets/images/IDETC_2021/foot-strike-eq.JPG"></a>
-    <figcaption></figcaption>
+    <figcaption>(Left) Single stance. (Right) Foot-strike.</figcaption>
 </figure>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UL-wkv4XF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
