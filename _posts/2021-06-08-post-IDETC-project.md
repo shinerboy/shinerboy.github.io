@@ -61,7 +61,7 @@ The figure below shows the general equation describing a single step. the repeat
 * Transition 2: Occurs when biped is in midstance (Θ0+Θ1=0)
   <center>
   <figure style="width:800px; text-align:left;" > 
-      <a href="/assets/images/IDETC_2021/repeating_unit.JPG"><img src="/assets/images/IDETC_2021/repeating_unit.JPG"></a>
+      <a href="/assets/images/IDETC_2021/repeating_unit.png"><img src="/assets/images/IDETC_2021/repeating_unit.png"></a>
       <figcaption></figcaption>
   </figure>
   </center>
@@ -70,7 +70,7 @@ The figure below shows the general equation describing a single step. the repeat
 
 ### Controller
 
-As the model is underactuated, the states chosen for control are the swing leg hip, torso, and both knees. Use aprtial feedback linearization (PFL) to balance nonlinear terms and simplify the controller. 
+As the model is underactuated, the states chosen for control are the swing leg hip, torso, and both knees. Use partial feedback linearization (PFL) to balance nonlinear terms and simplify the controller. 
 
 Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4). The first equation used in the simulator is the equation of motion for the 5 DOF states. This equation is used during the single stance phase where one foot is on the ground and the model behaves like an inverted pendulum.
 
