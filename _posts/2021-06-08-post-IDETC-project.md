@@ -70,11 +70,24 @@ The figure below shows the general equation describing a single step. the repeat
 
 ### Controller
 
-As the model is underactuated, the states chosen for control are the swing leg hip, torso, and both knees. Use partial feedback linearization (PFL) to balance nonlinear terms and simplify the controller. 
+As the model is underactuated, the states chosen for control are the swing leg hip, torso, and both knees. Use partial feedback linearization (PFL) to balance nonlinear terms and simplify the controller (Eq. 7). PD control (Eq. 6) was added for reference acceleration, velocity and position tracking of the states.
+<figure class="half">
+    <a href="/assets/images/IDETC_2021/equation6.png"><img src="/assets/images/IDETC_2021/equation6.png"></a>
+    <a href="/assets/images/IDETC_2021/equation7.png"><img src="/assets/images/IDETC_2021/equation7.png"></a>
+    <figcaption>.</figcaption>
+</figure>
 
-Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4). The first equation used in the simulator is the equation of motion for the 5 DOF states. This equation is used during the single stance phase where one foot is on the ground and the model behaves like an inverted pendulum.
+### Poincare Map Approximation
 
-The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg assimlating ankle push-off. Using the assumption that energy and momentum are conserved and integrating the EOM for the 7 states and taking he limit as time --> 0 the footstrike equation was derived to solve for the states after collision.
+The goal is now to develop control for walking speed and step length by using as control inputs the step angle and impulse at foot-strike. This could be done by looking at the Poincare Map (Eq. 9) which can be developed by integrating the simulation equations from one mid-stance to the next. The Poincare Map could then be used to discover which control inputs give the desired outputs. Given the complexity and computation time associated with integrating the equations of motion a number of times until a solution is reached, an approximation of the Poincare Map was developed. Continue from here. 
+
+
+<figure class="half">
+    <a href="/assets/images/IDETC_2021/equation6.png"><img src="/assets/images/IDETC_2021/equation6.png"></a>
+    <a href="/assets/images/IDETC_2021/equation7.png"><img src="/assets/images/IDETC_2021/equation7.png"></a>
+    <figcaption>.</figcaption>
+</figure>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UL-wkv4XF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
