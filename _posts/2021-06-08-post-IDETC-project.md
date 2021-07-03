@@ -42,7 +42,7 @@ Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x
 The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg assimlating ankle push-off. Using the assumption that energy and momentum are conserved and integrating the EOM for the 7 states and taking he limit as time --> 0 the footstrike equation was derived to solve for the states after collision.
 
 <figure class="half">
-    <a href="/assets/images/IDETC_2021/single_stance.JPG"><img src="/assets/images/IDETC_2021/single_stance.JPG"></a>
+    <a href="/assets/images/IDETC_2021/single_stance2.JPG"><img src="/assets/images/IDETC_2021/single_stance2.JPG"></a>
     <a href="/assets/images/IDETC_2021/foot-strike.JPG"><img src="/assets/images/IDETC_2021/foot-strike.JPG"></a>
     <figcaption></figcaption>
 </figure>
@@ -51,6 +51,22 @@ The single stance ends and the foot-strike phase begins when the swing foot C_2 
     <a href="/assets/images/IDETC_2021/foot-strike-eq.JPG"><img src="/assets/images/IDETC_2021/foot-strike-eq.JPG"></a>
     <figcaption>(Left) Single stance. (Right) Foot-strike.</figcaption>
 </figure>
+
+The figure below shows the general equation describing a single step. the repeating unit, that starts and ends at mid-stance. 
+* Phase 1: Single stance equation integrated until foot-strike
+* Transition 1: Occurs when swing foot (c_2) touches the ground.
+* Phase 2: Foot-strike equation is applied and legs are swapped.
+* Phase 3: Single stance equation integrated until midstance.
+* Transition 2: Occurs when biped is in midstance (Θ0+Θ1=0)
+
+
+### Controller
+
+As the model is underactuated, the states chosen for control are the swing leg hip, torso, and both knees. Use aprtial feedback linearization (PFL) to balance nonlinear terms and simplify the controller. 
+
+Using Euler-Lagrange's method I formulated 7 equations of motion for 7 states (x, y, Θ0, Θ1, Θ2, Θ3, Θ4). The first equation used in the simulator is the equation of motion for the 5 DOF states. This equation is used during the single stance phase where one foot is on the ground and the model behaves like an inverted pendulum.
+
+The single stance ends and the foot-strike phase begins when the swing foot C_2 touches the ground. It is assumed that the trailing leg pushes off with an impulseive force I_C1 along the stance leg assimlating ankle push-off. Using the assumption that energy and momentum are conserved and integrating the EOM for the 7 states and taking he limit as time --> 0 the footstrike equation was derived to solve for the states after collision.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-UL-wkv4XF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
