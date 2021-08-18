@@ -8,7 +8,7 @@ header:
     image: "/assets/images/chicago03.jpg"
 ---
 
-Hernandez-Hinojosa, E.; Bhounsule, P.A.;  Satici, "A. Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem" (2021). [link](https://pab47.github.io/papers/2021Hernandez_optimal.pdf)
+Hernandez-Hinojosa, E.; Bhounsule, P.A.;  Satici, A. "Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem" (2021). [link](https://pab47.github.io/papers/2021Hernandez_optimal.pdf)
 
 Bhounsule, P.A.; Hernandez-Hinojosa, E.; Alaeddini, A. "One-Step Deadbeat Control of a 5-Link Biped Using Data-Driven Nonlinear Approximation of the Step-to-Step Dynamics." Robotics 2020, 9, 90. [link](https://www.mdpi.com/2218-6581/9/4/90)
 
