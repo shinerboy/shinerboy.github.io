@@ -8,7 +8,9 @@ header:
     image: "/assets/images/chicago03.jpg"
 ---
 
-Bhounsule, P.A.; Hernandez-Hinojosa, E.; Alaeddini, A. One-Step Deadbeat Control of a 5-Link Biped Using Data-Driven Nonlinear Approximation of the Step-to-Step Dynamics. Robotics 2020, 9, 90. [link](https://www.mdpi.com/2218-6581/9/4/90)
+Hernandez-Hinojosa, E.; Bhounsule, P.A.;  Satici, "A. Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem" (2021). [link](https://pab47.github.io/papers/2021Hernandez_optimal.pdf)
+
+Bhounsule, P.A.; Hernandez-Hinojosa, E.; Alaeddini, A. "One-Step Deadbeat Control of a 5-Link Biped Using Data-Driven Nonlinear Approximation of the Step-to-Step Dynamics." Robotics 2020, 9, 90. [link](https://www.mdpi.com/2218-6581/9/4/90)
 
 E. Hernandez-Hinojosa et al., "Bioinspired robotic exoskeleton for endotracheal intubation", Journal of Materials Research and Technology, Volume 9, Issue 6, 2020, Pages 12167-12176, ISSN 2238-7854. [link](http://www.sciencedirect.com/science/article/pii/S2238785420316781)
 
