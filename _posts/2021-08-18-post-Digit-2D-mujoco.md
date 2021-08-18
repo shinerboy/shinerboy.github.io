@@ -4,8 +4,8 @@ title: Digit Cyclic Stability Mujoco Simulation"
 permalink: /2021-08-18-post-Digit-2D-mujoco/
 classes: wide
 header:
-  teaser: /assets/images/digit_2d/digit_2dmujoco_photo.JPG
-  og_image: /assets/images/digit_2d/digit_2dmujoco_photo.JPG
+  teaser: /assets/images/digit_2d/digit_2dmujoco.JPG
+  og_image: /assets/images/digit_2d/digit_2dmujoco.JPG
 categories:
   - projects
 tags:
