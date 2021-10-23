@@ -5,7 +5,7 @@ title: "My Projects"
 classes: wide
 author_profile: false
 header:
-    image: "/assets/images/chicago03.jpg"
+    image: "/assets/images/milky_way.JPG"
 ---
 
 No content yet.
