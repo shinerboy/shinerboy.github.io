@@ -38,7 +38,7 @@ classes: wide
 ## Projects
 
   * **NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018**
-      * Seven week I-COPRS curriculum 	
+      * Enterpreneurial Lead during a Seven week I-COPRS curriculum 	
       * The National Science Foundation (NSF) I-Corps program prepares scientists and engineers to extend their focus beyond the university laboratory, and accelerates the economic and societal benefits of NSF-funded, basic-research projects that are ready to move toward commercialization.
   * **San Antonio VIA Codeathon, 2018**
       * Bus Bike Rack Availability Utility	
