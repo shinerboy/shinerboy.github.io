@@ -18,4 +18,4 @@ Hernandez-Hinojosa, E et al., "Bioinspired robotic exoskeleton for endotracheal 
 
 Hernandez, E et al., "A Novel Treadmill That Can Bilaterally Adjust the Vertical Surface Stiffness," in IEEE/ASME Transactions on Mechatronics, vol. 23, no. 5, pp. 2338-2346, Oct. 2018, doi: 10.1109/TMECH.2018.2866337. [link](https://ieeexplore.ieee.org/document/8440756)
 
-Guevara, Juan; Romo, Jamie; Hernandez, Ernesto ; Guevara, Natalia Valentinova “Identification of Receptor Ligands in Apo B100 Reveals Potential Functional Domains.” The Protein Journal, vol. 37, no. 6, 2018, pp. 548–571., doi:10.1007/s10930-018-9792-8. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487889/)
+Guevara, Juan; Romo, Jaime; Hernandez, Ernesto ; Guevara, Natalia Valentinova “Identification of Receptor Ligands in Apo B100 Reveals Potential Functional Domains.” The Protein Journal, vol. 37, no. 6, 2018, pp. 548–571., doi:10.1007/s10930-018-9792-8. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487889/)
