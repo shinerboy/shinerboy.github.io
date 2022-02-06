@@ -63,7 +63,7 @@ classes: wide
       * AutoCad design and Finite Element Analysis using Autodesk Mechanical
  {: .small}
 
-## Research/Conference Papers
+## Research Journal/Conference Publications
 
   * **“Event-Based, Intermittent, Discrete Adaptive Control for Speed Regulation of Artificial Legs.”**, Actuators 2021, 10(10), 264.
   * **“Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem.”**, Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 8B: 45th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2021.
