@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Linear inverted pendulum modeling applied to Digit walking control
-permalink: /2021-08-18-post-Digit-2D-mujoco/
+permalink: /2022-02-05-post-Digit-3D-LIPM/
 classes: wide
 header:
   teaser: /assets/images/digit_LIPM/Digit_3D_LIPM_MATLAB.JPG
