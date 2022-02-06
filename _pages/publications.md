@@ -10,8 +10,7 @@ header:
 
 Echeveste, S.; Hernandez-Hinojosa, E.; Bhounsule, P. "Event-Based, Intermittent, Discrete Adaptive Control for Speed Regulation of Artificial Legs." Actuators 2021, 10(10), 264;[link](https://www.mdpi.com/2076-0825/10/10/264)
 
-Hernandez-Hinojosa, E.; Bhounsule, P.A.;  Satici, A. "Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem" 
-IDETC2021-70733. [link](https://pab47.github.io/papers/2021Hernandez_optimal.pdf)
+Hernandez-Hinojosa, E, Satici, A, & Bhounsule, PA. "Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem." Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 8B: 45th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2021. V08BT08A005. ASME. [link](https://doi.org/10.1115/DETC2021-70733)
 
 Bhounsule, P.A.; Hernandez-Hinojosa, E.; Alaeddini, A. "One-Step Deadbeat Control of a 5-Link Biped Using Data-Driven Nonlinear Approximation of the Step-to-Step Dynamics." Robotics 2020, 9, 90. [link](https://www.mdpi.com/2218-6581/9/4/90)
 
