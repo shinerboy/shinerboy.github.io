@@ -7,7 +7,7 @@ classes: wide
 
 ## Education
 
-  * **Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2022 (expected)** 
+  * **Ph.D in Mechanical Engineering, The University of Illinois at Chicago, 2023 (expected)** 
     
   * **B.S in Engineering Physics, The University of Texas Rio Grande Valley, 2016** 
       * Cum Laude
@@ -15,8 +15,9 @@ classes: wide
 ## Research Experience
 
   * **The University of Illinois at Chicago, 2020-present**
-      * Graduate Research Assistant; Advisor: Pranav Bhounsule, Ph.D.	
-      * One-step deadbeat control of a 5-link biped using approximate step-to-step dynamics model
+      * AHA Pre-doctoral Researcher; Advisor: Pranav Bhounsule, Ph.D.	
+      * Optimal nonlinear control of bipedal robots using full body physics feedback linearization and simplified linear inverted pendulum models.
+      * Designing human-inspired walking and balance robotic controllers.
 
   * **NASA Johnson Space Center, 2020**
       * Robotics Researcher USRA Intern	
@@ -37,9 +38,12 @@ classes: wide
  {: .small}
 ## Projects
 
+  * **Chicago Engineering Design Team, Chicago IL, 2021**
+      * Design of a 4-DOF Robotic  	
+      * Worked in a team of engineering students to design and fabricate a robotic manipulator. Main duties included generating the kinematic model and programming an inverse kinematic solver for end effector trajectory control as well as motor driver selection, integration, and programming.
   * **NSF Innovations CORPS Fall Cohort, Atlanta GA, 2018**
       * Enterpreneurial Lead during a Seven week I-COPRS curriculum 	
-      * The National Science Foundation (NSF) I-Corps program prepares scientists and engineers to extend their focus beyond the university laboratory, and accelerates the economic and societal benefits of NSF-funded, basic-research projects that are ready to move toward commercialization.
+      * The National Science Foundation (NSF) I-Corps program prepares scientists and engineers to extend their focus beyond the university laboratory, and accelerates the economic and societal benefits of NSF-funded, basic-research projects that are ready to move toward commercialization.    
   * **San Antonio VIA Codeathon, 2018**
       * Bus Bike Rack Availability Utility	
       * Built a software application system that allows bus riders to check the bike rack availability on any VIA bus
@@ -61,6 +65,9 @@ classes: wide
 
 ## Research/Conference Papers
 
+  * **“Event-Based, Intermittent, Discrete Adaptive Control for Speed Regulation of Artificial Legs.”**, Actuators 2021, 10(10), 264.
+  * **“Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem.”**, Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 8B: 45th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2021.
+  * **"One-Step Deadbeat Control of a 5-Link Biped Using Data-Driven Nonlinear Approximation of the Step-to-Step Dynamics"**, Robotics 2020, 9, 90.
   * **"Bioinspired robotic exoskeleton for endotracheal intubation"**, Journal of Materials Research and Technology, Volume 9, Issue 6, 2020, Pages 12167-12176, ISSN 2238-7854.
   * **“A Novel Treadmill that can Bilaterally Adjust the Vertical Surface Stiffness”** IEEE Transaction on Mechatronics September 2018
   * **“A Novel Treadmill with Adjustable Bilateral Surface Stiffness”** Dynamic Walking Conference 2018
@@ -70,6 +77,8 @@ classes: wide
 
 ## Presentations
 
+  * **ASME 2021 IDETC-CIE, 2021**
+      * “Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem”  
   * **BMES Conference, 2019**
       * “Muscle Strength and Endurance Enhancement Using a 1-DOF Assistive Exoskeleton”   	
   * **SURF Conference, 2019**
@@ -91,10 +100,11 @@ classes: wide
 | Mechanical | Software | Other |
 |:--------|:-------:|--------:|
 | SolidWorks   | Python   | MATLAB   |
-| AutoCAD   | c++   | Circuit Design   |   
+| AutoCAD   | C/c++   | Circuit Design   |   
 |-----------------------------|
 | ANSYS   | ROS (Robotic Operating System)  | Motion Capture (Nexus)   |
-| Auto Desk Mechanical Simulations   | Arduino Programming  |   |
+| Auto Desk Mechanical Simulations   | Arduino Programming  | Robot Modeling  |
+|         | MuJoCo | |
 |=============================|
 
 ## Employment
