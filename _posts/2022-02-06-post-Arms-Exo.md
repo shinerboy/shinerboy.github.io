@@ -18,7 +18,7 @@ Robotic rehabilitation is important in assisting patients who are physically cha
 
   <center>
   <figure style="width:800px; text-align:left;" class="half"> 
-      <a href="/assets/images/Swinging_Exo/Exo_02.JPG"><img src="/assets/images/Swinging_Exo/Exo_02.JP"></a>
+      <a href="/assets/images/Swinging_Exo/Exo_02.JPG"><img src="/assets/images/Swinging_Exo/Exo_02.JPG"></a>
       <a href="/assets/images/Swinging_Exo/Exo_03.JPG"><img src="/assets/images/Swinging_Exo/Exo_03.JPG"></a>
       <figcaption>(Left) CAD model od the device. (Right) Subject wearing the improved exoskeleton design with slider joint during single-stance (a), push-off (b), and heel-strike (c). </figcaption>
   </figure>
@@ -30,14 +30,9 @@ The weight and placement of the weight were varied to find the optimal configura
 
 A human five-segment physics model consisting of one torso, two thighs and two shins was used for computing the AM. Feet were assumed to be point-feet and mass-less, shown in the figure. Anthropometric properties such as segment center of mass, inertia tensor and axis frame location and orientation were calculated from methods in literature.
 
-  <center>
-  <figure style="width:800px; text-align:left;" > 
-      <a href="/assets/images/Swinging_Exo/Exo_03.JPG"><img src="/assets/images/Swinging_Exo/Exo_03.JPG"></a>
-      <figcaption>Five-segment physics model</figcaption>
-  </figure>
-  </center>
+
   <figure class="half">
-    <a href="/assets/images/Swinging_Exo/Exo_03.JPG"><img src="/assets/images/Swinging_Exo/Exo_03.JPG"></a>
+    <a href="/assets/images/Swinging_Exo/Exo_04.JPG"><img src="/assets/images/Swinging_Exo/Exo_04.JPG"></a>
     <a href="/assets/images/Swinging_Exo/Exo_06.JPG"><img src="/assets/images/Swinging_Exo/Exo_06.JPG"></a>
     <figcaption>(Left) Five-segment physics model. (Right) TExperimental setup of a trial with exo on condition and 3.75 lbs of weight place at the 12 inch configuration.  </figcaption>
 </figure>
