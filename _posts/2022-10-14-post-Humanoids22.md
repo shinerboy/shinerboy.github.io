@@ -1,6 +1,6 @@
 ---
 layout: single
-title: L2D Approximation of the step-to-step map
+title: 2D Approximation of the step-to-step map
 permalink: /2022-10-14-post-Humanoids22/
 classes: wide
 header:
