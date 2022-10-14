@@ -78,6 +78,8 @@ classes: wide
 
 ## Presentations
 
+  * **Dynamics Walking Conference, 2022**
+      * “Using a Linear Inverted Pendulum Model to Design a Stepping Controller for Digit”  
   * **ASME 2021 IDETC-CIE, 2021**
       * “Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem”  
   * **BMES Conference, 2019**
