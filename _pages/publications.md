@@ -8,6 +8,8 @@ header:
     image: "/assets/images/chicago03.jpg"
 ---
 
+Hernandez Hinojosa, E; Torres, D; & Bhounsule, PA. “Quadratically constrained quadratic programs using approximations of the step-to-step dynamics: application on a 2D model of Digit”, Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots. Okinawa, Japan. Nov 28–30, 2022 (Accepted).
+
 Echeveste, S.; Hernandez-Hinojosa, E.; Bhounsule, P. "Event-Based, Intermittent, Discrete Adaptive Control for Speed Regulation of Artificial Legs." Actuators 2021, 10(10), 264;[link](https://www.mdpi.com/2076-0825/10/10/264)
 
 Hernandez-Hinojosa, E, Satici, A, & Bhounsule, PA. "Optimal Control of a 5-Link Biped Using Quadratic Polynomial Model of Two-Point Boundary Value Problem." Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Volume 8B: 45th Mechanisms and Robotics Conference (MR). Virtual, Online. August 17–19, 2021. V08BT08A005. ASME. [link](https://doi.org/10.1115/DETC2021-70733)
