@@ -23,7 +23,7 @@ Airway management is a priority to any caregiver in a trauma scenario. The curre
   </figure>
   </center>
 
-    <center>
+  <center>
   <figure style="width:800px; text-align:left;" > 
       <a href="/assets/images/Digital_Extenders/Lapse.JPG"><img src="/assets/images/Digital_Extenders/Lapse.JPG"></a>
       <figcaption>(a) Pre-insertion, (b) Opening patient’s mouth using DE and ETT mouth insertion, (c) Sliding ETT towards vocal cords (d)-(e). Insertion of ETT through the vocal cords, (f) Removing DE and confirming correct placement of ETT.</figcaption>
