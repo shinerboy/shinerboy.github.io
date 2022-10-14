@@ -18,14 +18,14 @@ Airway management is a priority to any caregiver in a trauma scenario. The curre
 
   <center>
   <figure style="width:800px; text-align:left;" > 
-      <a href="/assets/images/Dgital_Extenders/CAD.JPG"><img src="/assets/images/Dgital_Extenders/CAD.JPG"></a>
+      <a href="/assets/images/Digital_Extenders/CAD.JPG"><img src="/assets/images/Digital_Extenders/CAD.JPG"></a>
       <figcaption>CAD drawing of Digital Extender with important dimensions. (a) Dorsal view, (b) Medial view, (c) DEs incorporated with user.</figcaption>
   </figure>
   </center>
 
     <center>
   <figure style="width:800px; text-align:left;" > 
-      <a href="/assets/images/Dgital_Extenders/Lapse.JPG"><img src="/assets/images/Dgital_Extenders/Lapse.JPG"></a>
+      <a href="/assets/images/Digital_Extenders/Lapse.JPG"><img src="/assets/images/Digital_Extenders/Lapse.JPG"></a>
       <figcaption>(a) Pre-insertion, (b) Opening patient’s mouth using DE and ETT mouth insertion, (c) Sliding ETT towards vocal cords (d)-(e). Insertion of ETT through the vocal cords, (f) Removing DE and confirming correct placement of ETT.</figcaption>
   </figure>
   </center>
