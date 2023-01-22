@@ -28,14 +28,14 @@ Most bipedal systems are underactuated at the ankle joint because their actuator
 The drawback of numerically solving for the Poincare map is that it slows down the computation. One alternative solution is using a simplified model. We used the LIPM to simplify the robot dynamics and develop a stepping controller for Digit. The equations of motion of the inverted pendulum become linear by keeping the vertical height of the mass constant. Integrating the EOM gives a S2S map, also known as the Poincare map.
 
 <center>
-  <figure>
+  <figure style="width:800px; text-align:left;" >
       <a href="/assets/images/2022_Humanoids/EOM.JPG"><img src="/assets/images/2022_Humanoids/EOM.JPG"></a>
     </figure>
 </center>
 
 By choosing a constant stepping frequency, we can use the S2S map to solve for the foot placement required to achieve the desired velocity or position of the COM wrt the stance foot at foot strike. 
 <center>
-  <figure>
+  <figure style="width:800px; text-align:left;" >
       <a href="/assets/images/2022_Humanoids/Controller_eqsJPG"><img src="/assets/images/2022_Humanoids/Controller_eqs.JPG"></a>
     </figure>
 </center>
