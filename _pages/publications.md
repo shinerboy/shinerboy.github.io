@@ -8,7 +8,7 @@ header:
     image: "/assets/images/chicago03.jpg"
 ---
 
-Hernandez Hinojosa, E; Torres, D; & Bhounsule, PA. “Quadratically constrained quadratic programs using approximations of the step-to-step dynamics: application on a 2D model of Digit”, Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots. Okinawa, Japan. Nov 28–30, 2022 (Accepted).
+Hernandez Hinojosa, E; Torres, D; & Bhounsule, PA. “Quadratically constrained quadratic programs using approximations of the step-to-step dynamics: application on a 2D model of Digit”, Proceedings of the 2022 IEEE-RAS International Conference on Humanoid Robots. Okinawa, Japan. 2022, pp. 96-103;[link](https://ieeexplore.ieee.org/document/10000251).
 
 Echeveste, S.; Hernandez-Hinojosa, E.; Bhounsule, P. "Event-Based, Intermittent, Discrete Adaptive Control for Speed Regulation of Artificial Legs." Actuators 2021, 10(10), 264;[link](https://www.mdpi.com/2076-0825/10/10/264)
 
