@@ -83,7 +83,7 @@ QCQP implementation:
 <iframe height="100px" src="https://www.youtube.com/embed/MniABg2jGEA?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 A foot strike corrected stepping controller was also implemented to account for interstep disturbances that may occur during walking. 
 <center>
-  <figure style="width:900px; text-align:left;" >
+  <figure style="width:900px;" >
       <a href="/assets/images/2022_Humanoids/Footstrike_corrected.JPG"><img src="/assets/images/2022_Humanoids/Footstrike_corrected.JPG"></a>
       <figcaption> The footstrike-corrected controller updates the robot states continuously as opposed to discretely. This allows for the stepping controller to continuously update the footplacement up the swing foot during the single support phase of walking. </figcaption>
     </figure>
