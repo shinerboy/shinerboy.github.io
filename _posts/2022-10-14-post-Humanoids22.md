@@ -59,9 +59,15 @@ An alternative way of extracting the S2S dynamics of the system is by capturing 
 </center>
 The feasible data was fitted to an analytical polynomial S2S map shown below. A discrete and non-linear controller was formulated. The error S2S dynamics were linearized about an equilibrium point and the gain K was solved for such that the system became asymptotically stable. 
 <center>
-  <figure style="width:900px; text-align:left;" class="half"> 
-     <a href="/assets/images/2022_Humanoids/S2S_eqs.JPG"><img src="/assets/images/2022_Humanoids/S2S_eqs.JPG"></a>
-      <a href="/assets/images/2022_Humanoids/Nonlinear_controller.JPG"><img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="height:30px;widtht:120px;"></a>
+  <figure style="width:900px; text-align:left;"> 
+      <div class="row">
+        <div class="column">
+          <img src="S2S_eqs.JPG" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="width:100%">
+        </div>
+      </div>
       <figcaption>(Left) Polynomial S2S map (Right) Discrete and nonlinear stepping controller </figcaption>
     </figure>
 </center>
