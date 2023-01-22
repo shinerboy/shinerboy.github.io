@@ -73,7 +73,7 @@ Having such types of analytical maps and analytical boundaries allows the formul
     </figure>
 </center>
 QCQP implementation:
-<iframe height="300px" src="https://www.youtube.com/embed/MniABg2jGEA?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe height="100px" src="https://www.youtube.com/embed/MniABg2jGEA?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
