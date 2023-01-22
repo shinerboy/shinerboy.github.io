@@ -88,7 +88,7 @@ A foot strike corrected stepping controller was also implemented to account for 
 <iframe height="100px" src="https://www.youtube.com/embed/MniABg2jGEA?start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <center>
   <figure style="text-align:left;"> 
-     <a><iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></a>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <figcaption>The footstrike-corrected stepping controller was tested by pushing the robot during the single support phase during walking. The new controller allowed the robot to recover from the push. </figcaption>
     </figure>
 </center>
