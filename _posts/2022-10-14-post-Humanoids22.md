@@ -65,6 +65,17 @@ The feasible data was fitted to an analytical polynomial S2S map shown below. A 
       <figcaption>(Left) Polynomial S2S map (Right) Discrete and nonlinear stepping controller </figcaption>
     </figure>
 </center>
+Having such types of analytical maps and analytical boundaries allows the formulation of an optimization problem that can be used to optimize foot placement to achieve desired walking speed, recover from a fall, or walk through a constrained environment. The best part is that these analytical models are typically of low order and can be solved for very fast for real-time control. 
+<center>
+  <figure style="width:500px; text-align:left;" >
+      <a href="/assets/images/2022_Humanoids/QCQP.JPG"><img src="/assets/images/2022_Humanoids/QCQP.JPG"></a>
+      <figcaption>The formulated quadratically constrained quadratic program (QCQP) can be used to minimize the walking parameter (e.g. COM velocity or position at foot strike) error. The analytical model is used as an equality constraint and the feasible boundary is used as an inequality constrained. Furthermore, stepping constraints can be added to acount for safe and unsafe regions that the robot can step on. </figcaption>
+    </figure>
+</center>
+QCQP implementation:
+<iframe height="300px" src="https://www.youtube.com/embed/MniABg2jGEA?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
