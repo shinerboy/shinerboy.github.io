@@ -39,13 +39,14 @@ By choosing a constant stepping frequency, we can use the S2S map to solve for t
       <a href="/assets/images/2022_Humanoids/LIPM_stepping_MJ3.PNG"><img src="/assets/images/2022_Humanoids/LIPM_stepping_MJ3.PNG"></a>
     </figure>
 </center>
-<iframe style="height:300px; text-align:center;" width="280" height="152" src="https://www.youtube.com/embed/_9bOyELROho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="height:300px;" width="280" height="152" src="https://www.youtube.com/embed/_9bOyELROho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 One major drawback from using the simpplified model dynamics of the LIPM is that there might be a steady-state error that arises due to the dynamic differences between the LIPM and robot dynamics. 
 <center>
   <figure style="width:500px; text-align:left;" >
       <a href="/assets/images/2022_Humanoids/Error.JPG"><img src="/assets/images/2022_Humanoids/Error.JPG"></a>
     </figure>
 </center>
+An alternative way of extracting the S2S dynamics of the system is by capturing the dynamics of certain points of interest such as COM position and velocity and using them as Poincare map parameters. We ran physics simulations of the system walking under LIPM-based stepping and collected waveform kinematic data. The data was converted into point-of-interest data as function of controller inputs. The points of interest are then run through a Support Vector Machine (SVM) classifier where we use the classification hyperplane equation to classify the data as either feasible or infeasible. Basically, separating data for which the robot succesfully recovers from afall and when the robot falls or slips. The feasible data is then fitten to a function using polynomial regression. This function is now an analytical version of the Poincare map equation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
