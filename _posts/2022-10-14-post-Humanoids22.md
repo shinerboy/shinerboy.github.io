@@ -32,7 +32,6 @@ The drawback of numerically solving for the Poincare map is that it slows down t
       <a href="/assets/images/2022_Humanoids/EOM.JPG"><img src="/assets/images/2022_Humanoids/EOM.JPG"></a>
     </figure>
 </center>
-
 By choosing a constant stepping frequency, we can use the S2S map to solve for the foot placement required to achieve the desired velocity or position of the COM wrt the stance foot at foot strike. The S2S map is reformaulated such that the control input is step length (u). A feedback term is introduced making the controller a discrete controller with feedback. Gains can be tuned such that the system reaches orbital stability. 
 <center>
   <figure style="width:1000px; text-align:left;" class="half">
@@ -42,7 +41,8 @@ By choosing a constant stepping frequency, we can use the S2S map to solve for t
 </center>
 <iframe width="280" height="152" src="https://www.youtube.com/embed/_9bOyELROho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-One major drawback from using the simpplified model dynamics of the LIPM is that theremight be a steady-state error that arises due to the dynamic differences between the LIPM and robot dynamics. 
+
+One major drawback from using the simpplified model dynamics of the LIPM is that there might be a steady-state error that arises due to the dynamic differences between the LIPM and robot dynamics. 
 <center>
   <figure style="width:500px; text-align:left;" >
       <a href="/assets/images/2022_Humanoids/Error.JPG"><img src="/assets/images/2022_Humanoids/Error.JPG"></a>
