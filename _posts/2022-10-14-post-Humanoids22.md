@@ -61,7 +61,7 @@ The feasible data was fitted to an analytical polynomial S2S map shown below. A 
 <center>
   <figure style="width:900px; text-align:left;" class="half"> 
      <a href="/assets/images/2022_Humanoids/S2S_eqs.JPG"><img src="/assets/images/2022_Humanoids/S2S_eqs.JPG"></a>
-      <a href="/assets/images/2022_Humanoids/Nonlinear_controller.JPG"><img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG"></a>
+      <a href="/assets/images/2022_Humanoids/Nonlinear_controller.JPG"><img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="height:30px;"></a>
       <figcaption>(Left) Polynomial S2S map (Right) Discrete and nonlinear stepping controller </figcaption>
     </figure>
 </center>
@@ -74,7 +74,7 @@ Having such types of analytical maps and analytical boundaries allows the formul
 </center>
 QCQP implementation:
 <iframe height="100px" src="https://www.youtube.com/embed/MniABg2jGEA?start=151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+A foot strike corrected stepping controller was also implemented to account for interstep disturbances that may occur during walking. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
