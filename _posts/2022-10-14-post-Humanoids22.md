@@ -51,9 +51,10 @@ One major drawback from using the simpplified model dynamics of the LIPM is that
 An alternative way of extracting the S2S dynamics of the system is by capturing the dynamics of certain points of interest such as COM position and velocity and using them as Poincare map parameters. We ran physics simulations of the system walking under LIPM-based stepping and collected waveform kinematic data. The data was converted into point-of-interest data as function of controller inputs. The points of interest are then run through a Support Vector Machine (SVM) classifier where we use the classification hyperplane equation to classify the data as either feasible or infeasible. Basically, separating data for which the robot succesfully takes a step and when the robot falls or slips. The feasible data is then fitten to a function using polynomial regression. This function is now an analytical version of the Poincare map equation.
 
 <center>
-  <figure > 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <figcaption>Training was done in MuJoCo. </figcaption>
+  <figure style="text-align:left;" class="half"> 
+     <a<iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></a>
+     <a href="/assets/images/2022_Humanoids/Decision.JPG"><img src="/assets/images/2022_Humanoids/Decision.JPG"></a>
+      <figcaption>(Left) Training was done in MuJoCo. (Right) The classification decision boundary </figcaption>
     </figure>
 </center>
 
