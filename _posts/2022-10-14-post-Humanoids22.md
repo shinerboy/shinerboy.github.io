@@ -18,7 +18,7 @@ last_modified_at: 2020-09-22T15:12:19-04:00
 Most bipedal systems are underactuated at the ankle joint because their actuators are not strong enough to counteract the weight of the robot and because the foot starts to rotate when the COM falls outside of the base of support at the foot. This poses a challenge to locomotion that humans and other bipedal animals have been able to overcome by "falling controllably". Walking is in essence falling while breaking the fall by placing the foot in front. Robotic mechanisms seeking to mimic this walking method must understand the dynamics of the system which can be done by integrating the equations of motion much like is done with simulators. Integrating EOM from one instance of a gait cycle to the next as a function of current states and control inputs yields a Poincare map.
 
 <center>
-  <figure style="width:800px; text-align:left;" class="half"> 
+  <figure style="width:600px; text-align:left;" class="half"> 
      <a href="/assets/images/2022_Humanoids/Integration.JPG"><img src="/assets/images/2022_Humanoids/Integration.JPG"></a>
       <a href="/assets/images/2022_Humanoids/LIPM_model.jpg"><img src="/assets/images/2022_Humanoids/LIPM_model.jpg"></a>
       <figcaption>(Left) Integrating EOM yields analytical step-to-step map. (Right) General LIPM </figcaption>
