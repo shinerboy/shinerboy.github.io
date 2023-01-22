@@ -28,7 +28,7 @@ The drawback of numerically solving for the Poincare map is that it slows down t
 <center>
   <figure style="width:800px; text-align:left;" class="half"> 
       <a href="/assets/images/2022_Humanoids/EOM.JPG"><img src="/assets/images/2022_Humanoids/EOM.JPG"></a>
-      <a href="/assets/images/IDETC_2021/LIPM_model.jpg"><img src="/assets/images/IDETC_2021/LIPM_model.jpg"></a>
+      <a href="/assets/images/2022_Humanoids/LIPM_model.jpg"><img src="/assets/images/2022_Humanoids/LIPM_model.jpg"></a>
     </figure>
 </center>
 
