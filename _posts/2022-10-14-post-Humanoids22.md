@@ -39,7 +39,7 @@ By choosing a constant stepping frequency, we can use the S2S map to solve for t
       <a href="/assets/images/2022_Humanoids/LIPM_stepping_MJ3.PNG"><img src="/assets/images/2022_Humanoids/LIPM_stepping_MJ3.PNG"></a>
     </figure>
 </center>
-<iframe style="height:300px;" width="280" height="152" src="https://www.youtube.com/embed/_9bOyELROho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="height:300px;" width="280" height="50" src="https://www.youtube.com/embed/_9bOyELROho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 One major drawback from using the simpplified model dynamics of the LIPM is that there might be a steady-state error that arises due to the dynamic differences between the LIPM and robot dynamics. 
 <center>
   <figure style="width:500px; text-align:left;" >
