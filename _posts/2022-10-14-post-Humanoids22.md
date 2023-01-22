@@ -57,6 +57,14 @@ An alternative way of extracting the S2S dynamics of the system is by capturing 
       <figcaption>(Left) Training was done in MuJoCo. (Right) The classification decision boundary </figcaption>
     </figure>
 </center>
+The feasible data was fitted to an analytical polynomial S2S map shown below. A discrete and non-linear controller was formulated. The error S2S dynamics were linearized about an equilibrium point and the gain K was solved for such that the system became asymptotically stable. 
+<center>
+  <figure style="width:600px; text-align:left;" class="half"> 
+     <a href="/assets/images/2022_Humanoids/S2S_eqs.JPG"><img src="/assets/images/2022_Humanoids/S2S_eqs.JPG"></a>
+      <a href="/assets/images/2022_Humanoids/Nonlinear_controller.jpg"><img src="/assets/images/2022_Humanoids/Nonlinear_controller.jpg"></a>
+      <figcaption>(Left) Polynomial S2S map (Right) Discrete and nonlinear stepping controller </figcaption>
+    </figure>
+</center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
