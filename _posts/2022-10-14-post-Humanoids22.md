@@ -62,7 +62,7 @@ The feasible data was fitted to an analytical polynomial S2S map shown below. A 
   <figure style="width:900px; text-align:left;"> 
       <div class="row">
         <div class="column">
-          <img src="/assets/images/2022_Humanoids/S2S_eqs.JPG" style="width:80%">
+          <img src="/assets/images/2022_Humanoids/S2S_eqs.JPG" style="width:30%">
           <img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="width:30%">
         </div>
       </div>
@@ -85,10 +85,9 @@ A foot strike corrected stepping controller was also implemented to account for 
       <figcaption> The footstrike-corrected controller updates the robot states continuously as opposed to discretely. This allows for the stepping controller to continuously update the footplacement up the swing foot during the single support phase of walking. </figcaption>
     </figure>
 </center>
-<iframe height="100px" src="https://www.youtube.com/embed/MniABg2jGEA?start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <center>
   <figure style="text-align:left;"> 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <iframe height="100" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <figcaption>The footstrike-corrected stepping controller was tested by pushing the robot during the single support phase during walking. The new controller allowed the robot to recover from the push. </figcaption>
     </figure>
 </center>
