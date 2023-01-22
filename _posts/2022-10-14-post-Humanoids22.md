@@ -52,7 +52,7 @@ An alternative way of extracting the S2S dynamics of the system is by capturing 
 
 <center>
   <figure style="text-align:left;" class="half"> 
-     <a<iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></a>
+     <a><iframe width="560" height="315" src="https://www.youtube.com/embed/MniABg2jGEA?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></a>
      <a href="/assets/images/2022_Humanoids/Decision.JPG"><img src="/assets/images/2022_Humanoids/Decision.JPG"></a>
       <figcaption>(Left) Training was done in MuJoCo. (Right) The classification decision boundary </figcaption>
     </figure>
