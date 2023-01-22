@@ -33,7 +33,7 @@ The drawback of numerically solving for the Poincare map is that it slows down t
     </figure>
 </center>
 
-By choosing a constant stepping frequency, we can use the S2S map to solve for the foot placement required to achieve the desired velocity or position of the COM wrt the stance foot at foot strike. The S2S map is reformaulated such that the control input is step length (u).
+By choosing a constant stepping frequency, we can use the S2S map to solve for the foot placement required to achieve the desired velocity or position of the COM wrt the stance foot at foot strike. The S2S map is reformaulated such that the control input is step length (u). A feedback term is introduced making the controller a discrete controller with feedback. Gains can be tuned such that the system reaches orbital stability. 
 <center>
   <figure style="width:800px; text-align:left;" class="half">
       <a href="/assets/images/2022_Humanoids/Controller_eqs.JPG"><img src="/assets/images/2022_Humanoids/Controller_eqs.JPG"></a>
