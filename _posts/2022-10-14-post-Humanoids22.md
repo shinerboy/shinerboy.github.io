@@ -62,8 +62,8 @@ The feasible data was fitted to an analytical polynomial S2S map shown below. A 
   <figure style="width:900px; text-align:left;"> 
       <div class="row">
         <div class="column">
-          <img src="/assets/images/2022_Humanoids/S2S_eqs.JPG" style="width:30%">
-          <img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="width:30%">
+          <img src="/assets/images/2022_Humanoids/S2S_eqs.JPG" style="width:60%">
+          <img src="/assets/images/2022_Humanoids/Nonlinear_controller.JPG" style="width:20%">
         </div>
       </div>
       <figcaption>(Left) Polynomial S2S map (Right) Discrete and nonlinear stepping controller </figcaption>
