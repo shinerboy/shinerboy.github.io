@@ -14,6 +14,10 @@ tags:
 last_modified_at: 2022-01-22T15:12:19-04:00
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZtphtDYmLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7yYoVekdPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlsHugsdY-c?start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
